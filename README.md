@@ -9,6 +9,8 @@ Smarty - https://www.smarty.net/
 
 Medoo - https://medoo.in/
 
+Alertify.js - https://alertifyjs.com/
+
 
 # Funkcjonalności
 Strona główna
